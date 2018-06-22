@@ -115,6 +115,11 @@ A:hover  {color:#3a3434; text-decoration:none; } /* 마우스 링크 위 올려 
 
 .back {margin: auto;}
 
+.container nav{
+	color: #3a3434;
+	display: block;
+}
+
 .main ul {
   list-style: none; float: right; 
   padding-right: 100px; padding-top: 50px;
@@ -127,7 +132,7 @@ A:hover  {color:#3a3434; text-decoration:none; } /* 마우스 링크 위 올려 
   padding: 25px;
 }
 
-.main il a:hover {color: #e7e3cd}
+.main il a:hover {color: #868370;}
 
 #back1{ 
   background: url('./img/b2.png'); 
