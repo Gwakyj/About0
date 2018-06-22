@@ -33,7 +33,7 @@ A:hover  {color:#3a3434; text-decoration:none; } /* 마우스 링크 위 올려 
 
 .bottom {
 	position: relative;
-	background-color: rgba(185,183,165,0.3);
+	background-color: rgba(58,52,52,0.5);
 	height: 200px; width: 100%;
 }
 
